@@ -64,8 +64,3 @@ sklad.get_equipment(hp_m428fdn, 10)
 print(sklad.return_stock())
 sklad.give_equipment(hp_m428fdn, 5, "OK")
 print(sklad.return_stock())
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Pri
